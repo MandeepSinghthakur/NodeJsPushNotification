@@ -1,0 +1,21 @@
+{
+  "name": "nodetuts",
+  "version": "0.0.1",
+  "description": "Learning Node ",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Mandeep Singh",
+  "license": "MIC",
+  "dependencies": {
+    "asynquence": "^0.8.2",
+    "asynquence-contrib": "^0.24.0",
+    "minimist": "^1.2.0",
+    "node-static": "^0.7.7",
+    "socket.io": "^0.9.16"
+  }
+}
